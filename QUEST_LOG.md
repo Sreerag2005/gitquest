@@ -6,8 +6,8 @@ Fill this in inside YOUR OWN FORK. Check the box (`[ ]` → `[x]`) when you fini
 
 - [x] Q1 (5 pts) — Wake Up
 - [x] Q2 (10 pts) — First Save
-- [ ] Q3 (15 pts) — Branch Out
-- [ ] Q4 (15 pts) — Bring It Together
+- [x] Q3 (15 pts) — Branch Out
+- [x] Q4 (15 pts) — Bring It Together
 - [ ] Q5 (30 pts) — The Clash
 - [ ] Q6 (15 pts) — Save For Later
 - [ ] Q7 (20 pts) — Undo Button
@@ -16,5 +16,5 @@ Fill this in inside YOUR OWN FORK. Check the box (`[ ]` → `[x]`) when you fini
 - [ ] Q10 (10 pts) — Mark the Milestone
 - [ ] Q11 (30 pts) — Send It Out
 - [ ] Q12 (40 pts) — Final Boss
-
+ 
 Quest details for each of these are in `QUESTS.md`.
